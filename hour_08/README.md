@@ -1,8 +1,9 @@
-# Hour 7 - Doing the Same Thing Over and Over
+# Hour 8 - More Operators
 
 
 ## Concepts Practised 
 
-    - The for statement
-    - The while statement
-    - The do-while statement
+    - The sizeof operator
+    - Logical operators
+    - Bit-manipulation operators
+    - The conditional operator
