@@ -12,7 +12,8 @@ In this first lesson you'll learn the following:
 
     - What C is 
 
-        C is a high-level programming language. In fact, C is one of the most popular general-purpose programming         languages.
+        C is a high-level programming language. In fact, C is one of the most popular general-purpose programming  languages.
+        
     - Why you need to learn C
 
         - C is a general-purpose programming language.
