@@ -1,8 +1,11 @@
-# Hour 7 - Doing the Same Thing Over and Over
+# Hour 10 - Getting Controls
 
 
 ## Concepts Practised 
 
-    - The for statement
-    - The while statement
-    - The do-while statement
+    - The if statement
+    - The if-else statement
+    - The switch statement
+    - The break statement
+    - The continue statement
+    - The goto statement
