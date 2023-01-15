@@ -1,8 +1,11 @@
-# Hour 7 - Doing the Same Thing Over and Over
+# Hour 12 - Storing Similar Data Items
 
 
 ## Concepts Practised 
 
-    - The for statement
-    - The while statement
-    - The do-while statement
+    - Single-dimension arrays
+    - Indexing arrays
+    - Pointers and arrays
+    - Character arrays
+    - Multidimensional arrays
+    - Unsized arrays
