@@ -1,8 +1,11 @@
-# Hour 7 - Doing the Same Thing Over and Over
+# Hour 11 - An Introduction to Pointers
 
 
 ## Concepts Practised 
 
-    - The for statement
-    - The while statement
-    - The do-while statement
+    - Pointer variables
+    - Memory addresses
+    - The concept of indirection
+    - Declaring a pointer
+    - The address-of operator
+    - The dereference operator
