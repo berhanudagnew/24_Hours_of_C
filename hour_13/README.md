@@ -1,8 +1,10 @@
-# Hour 7 - Doing the Same Thing Over and Over
+# Hour 13 - Manipulating Strings
 
 
 ## Concepts Practised 
 
-    - The for statement
-    - The while statement
-    - The do-while statement
+    - Declaring a string
+    - The length of a string
+    - Copying strings
+    - Reading strings with scanf(
+    - The gets() and puts() functions
