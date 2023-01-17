@@ -24,5 +24,12 @@ int main(){
       adds the two integers, and then prints out the sum on the screen.
         
     */
+    int a, b, d, g='Z';
+    // printf("Enter a and b separated by space:");
+    // scanf("%d %d", &a, &b); 103 - (97-65)
+    d = 'a' - 'A';
+    printf("a + b = %d\n%c\n", a+b,g+d);
+
+
     return 0;
 }
