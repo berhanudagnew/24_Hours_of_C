@@ -1,8 +1,10 @@
-# Hour 7 - Doing the Same Thing Over and Over
+# Hour 15 - Functions in C
 
 
 ## Concepts Practised 
 
-    - The for statement
-    - The while statement
-    - The do-while statement
+    - Function declarations
+    - Prototyping
+    - Values returned from functions
+    - Arguments to functions
+    - Structured programming
